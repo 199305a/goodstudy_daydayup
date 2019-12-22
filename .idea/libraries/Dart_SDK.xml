@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="Dart SDK">
+    <CLASSES>
+      <root url="file://$USER_HOME$/flutter/bin/dart-sdk-2.6/lib/async" />
+      <root url="file://$USER_HOME$/flutter/bin/dart-sdk-2.6/lib/cli" />
+      <root url="file://$USER_HOME$/flutter/bin/dart-sdk-2.6/lib/collection" />
+      <root url="file://$USER_HOME$/flutter/bin/dart-sdk-2.6/lib/convert" />
+      <root url="file://$USER_HOME$/flutter/bin/dart-sdk-2.6/lib/core" />
+      <root url="file://$USER_HOME$/flutter/bin/dart-sdk-2.6/lib/developer" />
+      <root url="file://$USER_HOME$/flutter/bin/dart-sdk-2.6/lib/ffi" />
+      <root url="file://$USER_HOME$/flutter/bin/dart-sdk-2.6/lib/html" />
+      <root url="file://$USER_HOME$/flutter/bin/dart-sdk-2.6/lib/indexed_db" />
+      <root url="file://$USER_HOME$/flutter/bin/dart-sdk-2.6/lib/io" />
+      <root url="file://$USER_HOME$/flutter/bin/dart-sdk-2.6/lib/isolate" />
+      <root url="file://$USER_HOME$/flutter/bin/dart-sdk-2.6/lib/js" />
+      <root url="file://$USER_HOME$/flutter/bin/dart-sdk-2.6/lib/js_util" />
+      <root url="file://$USER_HOME$/flutter/bin/dart-sdk-2.6/lib/math" />
+      <root url="file://$USER_HOME$/flutter/bin/dart-sdk-2.6/lib/mirrors" />
+      <root url="file://$USER_HOME$/flutter/bin/dart-sdk-2.6/lib/svg" />
+      <root url="file://$USER_HOME$/flutter/bin/dart-sdk-2.6/lib/typed_data" />
+      <root url="file://$USER_HOME$/flutter/bin/dart-sdk-2.6/lib/wasm" />
+      <root url="file://$USER_HOME$/flutter/bin/dart-sdk-2.6/lib/web_audio" />
+      <root url="file://$USER_HOME$/flutter/bin/dart-sdk-2.6/lib/web_gl" />
+      <root url="file://$USER_HOME$/flutter/bin/dart-sdk-2.6/lib/web_sql" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
